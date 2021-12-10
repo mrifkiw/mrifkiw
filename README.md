@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrifkiw
 - 👀 I’m interested in SwiftUI and Flutter
-- 🌱 I’m currently learning 🧑🏻‍💻 Apple Developer Academy @Binus 
+- 🧑🏻‍💻 Apple Developer Academy @Binus (February - December 2021)
 
 
 <!---
